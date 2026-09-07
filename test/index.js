@@ -3,6 +3,7 @@ require('./test_ws_retry_comprehensive');
 require('./ws-requestor-unit-test');
 require('./http-requestor-retry-test');
 require('./http-requestor-unit-test');
+require('./call-info-unit-test');
 require('./unit-tests');
 require('./docker_start');
 require('./create-test-db');
